@@ -13,4 +13,4 @@ Technologies used for this project
 * JavaScript
 
 Demo
-You can try a live demo of this pong game here.
+You can try a live demo of this pong game [here](https://TodorBonev.github.io/Pong-game).
